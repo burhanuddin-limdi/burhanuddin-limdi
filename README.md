@@ -13,6 +13,7 @@ I am a passionate full stack developer with expertise in creating modern, well-o
 ## 🚀 Current Projects
 - [CodePencil v2.0](https://github.com/burhanuddin-limdi/Codepencil) - A CodePen clone using Next.js and Firebase.
 - [Limusic](https://github.com/burhanuddin-limdi/limusic) - Limusic is a Flutter-based app for ad-free music streaming and offline downloads.
+- [Portfolio](https://github.com/burhanuddin-limdi/porfolio) - My Portfolio Website made using React, TailwindCSS and GSAP.
 - [Limflix](https://github.com/burhanuddin-limdi/Limflix_Movie_Website) - A netflix clone using Angular and SwiperJS.
 - [CodePencil v1.0](https://github.com/burhanuddin-limdi/CodePencilReact) - A CodePen clone with no backend support.
 
